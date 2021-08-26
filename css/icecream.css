@@ -1,0 +1,193 @@
+
+
+/*   top container  */
+
+.color-navi{
+  background-color:#CAF7E3;
+  color:#00EAD3;
+}
+.logo-brand{
+font-family: 'Open Sans Condensed', sans-serif;
+font-weight:900;
+font-size: 1.5rem;
+}
+
+.navigation-bar{
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.dropbar.navigation-bar{
+  margin-right: 50px;
+}
+
+#top-container {
+  background-color:#F6DFEB;
+  color:#E4BAD4;
+  padding:60px 0 50px 0;
+
+}
+#header-text{
+  margin:4% 3%;
+}
+#top-container{
+  padding-bottom: 1%;
+}
+
+.second-title{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 4.5rem;
+  text-align: center;
+
+
+}
+
+.first-title{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: bold;
+  font-size: 10.5rem;
+  text-align: center;
+  margin-top: 3%;
+
+}
+
+
+ /* middle container  */
+
+#describe{
+  background-color: white;
+  text-align: center;
+}
+.BestIce{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 2.5rem;
+  color:black;
+  width:60%;
+  margin: auto;
+  padding-top: 4%;
+
+}
+
+.Bestparty{
+font-family: 'MonteCarlo', cursive;
+font-weight: bold;
+letter-spacing:1px;
+width:60%;
+margin: auto;
+
+}
+
+.paragraphBestIce{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 1rem;
+width:60%;
+margin: auto;
+margin-top: 3%;
+
+
+}
+.imgIce{
+  width:60%;
+  margin: auto;
+   margin-top:3%;
+   margin-bottom: 4%;
+   border-radius: 4%;
+}
+
+
+.size-photos{
+  width:30%;
+}
+
+hr{
+  border-style: dotted none none none;
+  width:30%;
+color: blanchedalmond;
+  border-width:12px;
+
+}
+/* middle 2 container Price */
+.Base{
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+  color: #FFA0A0;
+}
+.Price{
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+  color: white;
+}
+
+#features{
+  background-color:#FFA0A0;
+  padding:4% 8%;
+}
+.head{
+  background-color: #CAF7E3;
+}
+.body{
+  background-color: white;
+
+}
+
+.howmanyFla{
+  font-size: 1rem;
+  margin-top: 9px;
+}
+.firststep, .secondstep{
+  font-family: 'Open Sans Condensed', sans-serif;
+  color:whitesmoke;
+  margin-bottom: 50px;
+
+}
+.para1{
+  font-size: 1.5rem;
+}
+
+.feature-box{
+  width:50%;
+  text-align: center;
+  margin:auto;
+}
+.flavors-sec{
+  padding:4% 15%;
+}
+
+.horizon{
+  width: 20%;
+  border: 0;
+  height: 3px;
+  background: #333;
+  background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+.IceFAV{
+  padding-top: 6%;
+  font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+}
+
+.named {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 20px;
+}
+
+
+#footer-contact{
+  font-family: 'Open Sans Condensed', sans-serif;
+  background-color: black;
+  padding:3% 6% 1% 6%;
+  color:whitesmoke;
+}
+.end-page{
+  font-family: 'Open Sans Condensed', sans-serif;
+  background-color: black;
+  padding:3% 6%;
+  color:whitesmoke;
+}
+.button-feature{
+  width:100%;
+  height:37px;
+  margin-bottom: 20px;
+}
+.social{
+  margin: 0 7%;
+}
